@@ -1,0 +1,8 @@
+<input id="deposits-record-locked-files" type="hidden" name="deposits-record-locked-files" value="false">
+<input type="hidden" name="deposits-record-restriction-grace-period" value="30">
+<input type="hidden" name="deposits-allow-record-restriction" value="false">
+<input type="hidden" name="config-groups-enabled" value="true">
+<input type="hidden" name="deposits-use-uppy-ui" value="false">
+<input type="hidden" name="records-resources-allow-empty-files" value="true">
+<input id="deposits-record-permissions" type="hidden" name="deposits-record-permissions" value="{&quot;can_delete_draft&quot;: true, &quot;can_manage&quot;: true, &quot;can_manage_files&quot;: true, &quot;can_manage_record_access&quot;: true}">
+<input type="hidden" id="deposits-share-btn-require-link-expiration" data-share-btn-require-link-expiration="false">

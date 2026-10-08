@@ -1,0 +1,379 @@
+{
+  "access": {
+    "embargo": { "active": null, "reason": null, "until": null },
+    "files": null,
+    "record": null,
+    "status": null
+  },
+  "created": null,
+  "custom_fields": null,
+  "deletion_status": { "is_deleted": null, "status": null },
+  "expires_at": null,
+  "files": { "enabled": true },
+  "id": null,
+  "internal_notes": [
+    {
+      "added_by": { "user": null },
+      "id": null,
+      "note": null,
+      "timestamp": null
+    }
+  ],
+  "is_draft": null,
+  "is_published": null,
+  "links": null,
+  "media_files": {
+    "count": null,
+    "default_preview": null,
+    "enabled": null,
+    "entries": null,
+    "order": [null],
+    "total_bytes": null
+  },
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": null,
+        "lang": { "id": null, "title": null },
+        "type": { "id": null, "title": null }
+      }
+    ],
+    "additional_titles": [
+      {
+        "lang": { "id": null, "title": null },
+        "title": null,
+        "type": { "id": null, "title": null }
+      }
+    ],
+    "contributors": [
+      {
+        "affiliations": [{ "id": null, "identifiers": [null], "name": null }],
+        "person_or_org": {
+          "family_name": null,
+          "given_name": null,
+          "identifiers": [null],
+          "name": null,
+          "type": null
+        },
+        "role": { "id": null, "title": null }
+      }
+    ],
+    "copyright": null,
+    "creators": [
+      {
+        "affiliations": [{ "id": null, "identifiers": [null], "name": null }],
+        "person_or_org": {
+          "family_name": null,
+          "given_name": null,
+          "identifiers": [null],
+          "name": null,
+          "type": null
+        },
+        "role": { "id": null, "title": null }
+      }
+    ],
+    "dates": [
+      {
+        "date": null,
+        "description": null,
+        "type": { "id": null, "title": null }
+      }
+    ],
+    "description": null,
+    "formats": [null],
+    "funding": [
+      {
+        "award": {
+          "acronym": null,
+          "id": null,
+          "identifiers": [null],
+          "number": null,
+          "program": null,
+          "title": null
+        },
+        "funder": { "id": null, "name": null }
+      }
+    ],
+    "identifiers": [null],
+    "languages": [{ "id": null, "title": null }],
+    "locations": {
+      "features": [
+        {
+          "description": null,
+          "geometry": {},
+          "identifiers": [null],
+          "place": null
+        }
+      ]
+    },
+    "publication_date": "2026-05-03",
+    "publisher": "CERN",
+    "references": [{ "identifier": null, "reference": null, "scheme": null }],
+    "related_identifiers": [
+      {
+        "identifier": null,
+        "relation_type": { "id": null, "title": null },
+        "resource_type": { "id": null, "title": null },
+        "scheme": null
+      }
+    ],
+    "resource_type": { "id": null, "title": null },
+    "rights": [
+      {
+        "description": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.",
+        "id": "cc-by-4.0",
+        "link": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "title": "Creative Commons Attribution 4.0 International"
+      }
+    ],
+    "sizes": [null],
+    "subjects": [
+      {
+        "id": null,
+        "identifiers": [null],
+        "props": null,
+        "scheme": null,
+        "subject": null,
+        "synonyms": [null],
+        "title": null
+      }
+    ],
+    "title": null,
+    "version": null
+  },
+  "parent": {
+    "access": {
+      "grants": [
+        {
+          "message": null,
+          "notify": null,
+          "origin": null,
+          "permission": null,
+          "subject": { "id": null, "type": null }
+        }
+      ],
+      "links": [
+        {
+          "created_at": null,
+          "description": null,
+          "expires_at": null,
+          "id": null,
+          "origin": null,
+          "permission": null,
+          "token": null
+        }
+      ],
+      "owned_by": { "user": null },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": null,
+        "allow_user_requests": null,
+        "secret_link_expiration": null
+      }
+    },
+    "communities": {
+      "default": null,
+      "entries": [
+        {
+          "access": {
+            "member_policy": null,
+            "members_visibility": null,
+            "record_policy": null,
+            "record_submission_policy": null,
+            "review_policy": null,
+            "visibility": null
+          },
+          "children": { "allow": null },
+          "created": null,
+          "custom_fields": null,
+          "deletion_status": { "is_deleted": null, "status": null },
+          "id": null,
+          "is_verified": null,
+          "links": null,
+          "metadata": {
+            "curation_policy": null,
+            "description": null,
+            "funding": [
+              {
+                "award": {
+                  "acronym": null,
+                  "id": null,
+                  "identifiers": [null],
+                  "number": null,
+                  "program": null,
+                  "title": null
+                },
+                "funder": { "id": null, "name": null }
+              }
+            ],
+            "organizations": [
+              { "id": null, "identifiers": [null], "name": null }
+            ],
+            "page": null,
+            "title": null,
+            "type": { "id": null, "title": null },
+            "website": null
+          },
+          "parent": {
+            "access": {
+              "member_policy": null,
+              "members_visibility": null,
+              "record_policy": null,
+              "record_submission_policy": null,
+              "review_policy": null,
+              "visibility": null
+            },
+            "children": { "allow": null },
+            "created": null,
+            "custom_fields": null,
+            "deletion_status": { "is_deleted": null, "status": null },
+            "id": null,
+            "is_verified": null,
+            "links": null,
+            "metadata": {
+              "curation_policy": null,
+              "description": null,
+              "funding": [
+                {
+                  "award": {
+                    "acronym": null,
+                    "id": null,
+                    "identifiers": [null],
+                    "number": null,
+                    "program": null,
+                    "title": null
+                  },
+                  "funder": { "id": null, "name": null }
+                }
+              ],
+              "organizations": [
+                { "id": null, "identifiers": [null], "name": null }
+              ],
+              "page": null,
+              "title": null,
+              "type": { "id": null, "title": null },
+              "website": null
+            },
+            "revision_id": null,
+            "slug": null,
+            "theme": {
+              "brand": null,
+              "enabled": null,
+              "style": {
+                "font": null,
+                "mainHeaderBackgroundColor": null,
+                "primaryColor": null,
+                "primaryTextColor": null,
+                "secondaryColor": null,
+                "secondaryTextColor": null,
+                "tertiaryColor": null,
+                "tertiaryTextColor": null
+              }
+            },
+            "tombstone": {
+              "citation_text": null,
+              "is_visible": null,
+              "note": null,
+              "removal_date": null,
+              "removal_reason": { "id": null, "title": null },
+              "removed_by": { "user": null }
+            },
+            "updated": null
+          },
+          "revision_id": null,
+          "slug": null,
+          "theme": {
+            "brand": null,
+            "enabled": null,
+            "style": {
+              "font": null,
+              "mainHeaderBackgroundColor": null,
+              "primaryColor": null,
+              "primaryTextColor": null,
+              "secondaryColor": null,
+              "secondaryTextColor": null,
+              "tertiaryColor": null,
+              "tertiaryTextColor": null
+            }
+          },
+          "tombstone": {
+            "citation_text": null,
+            "is_visible": null,
+            "note": null,
+            "removal_date": null,
+            "removal_reason": { "id": null, "title": null },
+            "removed_by": { "user": null }
+          },
+          "updated": null
+        }
+      ],
+      "ids": [null]
+    },
+    "id": null,
+    "is_verified": null,
+    "pids": null,
+    "review": {
+      "created": null,
+      "created_by": null,
+      "description": null,
+      "expires_at": null,
+      "id": null,
+      "is_closed": null,
+      "is_expired": null,
+      "is_open": null,
+      "last_activity_at": null,
+      "last_reply": {
+        "children": [null],
+        "created": null,
+        "created_by": null,
+        "id": null,
+        "links": null,
+        "parent_id": null,
+        "permissions": null,
+        "revision_id": null,
+        "type": null,
+        "updated": null
+      },
+      "links": null,
+      "number": null,
+      "receiver": null,
+      "revision_id": null,
+      "status": null,
+      "title": null,
+      "topic": null,
+      "type": null,
+      "updated": null
+    }
+  },
+  "pids": {},
+  "revision": null,
+  "revision_id": null,
+  "stats": {
+    "all_versions": {
+      "data_volume": null,
+      "downloads": null,
+      "unique_downloads": null,
+      "unique_views": null,
+      "views": null
+    },
+    "this_version": {
+      "data_volume": null,
+      "downloads": null,
+      "unique_downloads": null,
+      "unique_views": null,
+      "views": null
+    }
+  },
+  "status": "draft",
+  "tombstone": {
+    "citation_text": null,
+    "deletion_policy": { "id": null, "title": null },
+    "is_visible": null,
+    "note": null,
+    "removal_date": null,
+    "removal_reason": { "id": null, "title": null },
+    "removed_by": { "user": null }
+  },
+  "updated": null,
+  "versions": { "index": null, "is_latest": null, "is_latest_draft": null }
+}
